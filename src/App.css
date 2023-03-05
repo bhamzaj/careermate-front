@@ -1,0 +1,16 @@
+#public_app {
+  background: url('../public/bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: 0% 5%; 
+}
+
+#private_app {
+  background-color: #eee;
+}
+.main {
+  margin: 20px 0;
+  color:#fff;
+}

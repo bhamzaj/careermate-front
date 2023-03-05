@@ -1,0 +1,93 @@
+.jobs {
+  padding-top: 20px;
+}
+
+.tab-content {
+  padding: 25px;
+  background-color: #fff;
+}
+
+.findjobtab li button {
+  color: #fff;
+}
+
+.findjobtab li button:hover {
+  color: #fff;
+}
+
+.search-button {
+  margin: 3px 10px;
+}
+
+.welcome-message {
+  color: #fff;
+}
+
+.welcome-message {
+  color: #fff;
+}
+
+.welcome-message h1 {
+  font-size: 70px;
+  color: #fff;
+  line-height: 1;
+  font-weight: 800;
+}
+
+@media (max-width: 991.98px) {
+  .welcome-message h1 {
+    font-size: 40px;
+  }
+}
+
+.welcome-message h1 span {
+  font-weight: 300;
+}
+
+.welcome-message p {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.welcome-message p strong {
+  font-weight: 700;
+}
+
+.welcome-message p strong a {
+  color: #000000;
+}
+
+.welcome-message .breadcrumbs {
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  z-index: 99;
+}
+
+.welcome-message .breadcrumbs span {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.welcome-message .breadcrumbs span a {
+  color: #fff;
+}
+
+.welcome-message .bread {
+  font-weight: 400 !important;
+}
+
+.welcome-message .btn-primary {
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  border-radius: 30px;
+}
+
+.welcome-message .btn-primary:hover,
+.welcome-message .btn-primary:focus {
+  background: #fff !important;
+  color: #000000;
+}
